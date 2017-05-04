@@ -2,12 +2,11 @@
 
 # Install and load `ggplot2`
 # install.packages("ggplot2") # if needed
-
+library(ggplot2)
 
 # For this exercise you will again be working with the `diamonds` data set.
 # Use `?diamonds` to review details about this data set
-
-
+?diamonds
 
 ## Statistical Transformations
 
